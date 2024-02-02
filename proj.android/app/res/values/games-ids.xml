@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">175749486372</string>
+  <!-- package_name -->
+  <string name="package_name" translatable="false">com.atcvn.fruitpikachu</string>
+  <!-- leaderboard #1 -->
+  <string name="leaderboard_1" translatable="false">CgkIpK7x244FEAIQAQ</string>
+  <!-- leaderboard #2 -->
+  <string name="leaderboard_2" translatable="false">CgkIpK7x244FEAIQAg</string>
+  <!-- leaderboard #3 -->
+  <string name="leaderboard_3" translatable="false">CgkIpK7x244FEAIQAw</string>
+  <!-- leaderboard #4 -->
+  <string name="leaderboard_4" translatable="false">CgkIpK7x244FEAIQBA</string>
+  <!-- leaderboard #5 -->
+  <string name="leaderboard_5" translatable="false">CgkIpK7x244FEAIQBQ</string>
+</resources>
